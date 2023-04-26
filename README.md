@@ -4,12 +4,11 @@
 
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=fff)](#) -->
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tolgaezer0/)
-[![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](https://wwww.twitter.com/gamalibaykus)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](https://wwww.instagram.com/kutudakifotograflar)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tolgasezer0/)
+[![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](https://www.twitter.com/gamalibaykus)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](https://www.instagram.com/kutudakifotograflar)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tolgaszr)
-[![upwork](https://img.shields.io/badge/upwork-000?style=for-the-badge&logo=upwork&logoColor=darkgreen)](#)
-[![fiverr](https://img.shields.io/badge/fiverr-000?style=for-the-badge&logo=fiverr&logoColor=green)](#)
+
 #
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="start">
