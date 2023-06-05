@@ -21,7 +21,7 @@
 
 🧠 I'm currently learning React
 
-👯‍♀️ I would like to work with partners in Ankara. tolgaszr@gmail.com
+👯‍♀️ I would like to work with partners from Ankara. tolgaszr@gmail.com
 
 
 
