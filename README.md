@@ -1,5 +1,5 @@
 
-#  👋  Hi, I'm Tolga !   || Kodluyoruz Jr.Fellow [Voluntarily] 
+#  👋  Hi, I'm Tolga ! 
 
 
 
@@ -13,11 +13,17 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="start">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=*&width=380&height=45&lines=I'm+Tolga+Sezer;Learning+React;Nice+To+Meet+You+...&center=true"></a>
-</p>
+  
+
+## About Me
+
+🚀 I have a background in teaching science and a passion for sharing knowledge. Recently, I've embarked on a new journey to explore the world of computer science and coding. I'm eager to learn new technologies and contribute to open source projects.
 
 
-👩‍💻 I'm currently working on Frontend Development
+
+👩‍💻 Former Science Teacher 
+    
+🪢 Volunteer @ Kodluyoruz  
 
 🧠 I'm currently learning React
 
@@ -27,7 +33,7 @@
 
 <hr style="margin: 20px 0px">
 
- [![wakatime](https://wakatime.com/badge/user/a0cd9443-0994-43c6-8a10-373d904a3a9f.svg)](https://wakatime.com/@a0cd9443-0994-43c6-8a10-373d904a3a9f)
+
 [ ![](https://komarev.com/ghpvc/?username=tolgasezer&style=flat)](https://github.com/tolgasezer)
 
  ### Languages and Tools:
